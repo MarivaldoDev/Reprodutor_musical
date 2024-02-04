@@ -8,7 +8,6 @@ from PIL import Image
 
 
 
-
 pygame.mixer.init()
 
 
@@ -50,7 +49,6 @@ class Spotify():
         pygame.mixer.music.unpause()
 
 
-    # @pysnooper.snoop(r'C:\Users\mariv\OneDrive\Documentos\reprodutor\saida.log') 
     def proxima(self):
         try:
             print(f'valor inicial: {self.valores}')
@@ -207,6 +205,7 @@ class Spotify():
     
         pastas.add_command(label="Procurar pasta", command=self.procurar_pasta)
         pastas.add_command(label='Música Aleatória', command=self.aleatoria)
+
 
 
 
