@@ -1,6 +1,5 @@
 import pygame
 import os
-import pysnooper
 from customtkinter import *
 from random import randint
 from tkinter import ttk, Menu
