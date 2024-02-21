@@ -23,4 +23,4 @@ Instale as dependências: `pip install -r requirements.txt`
 
 ## Captura de tela
 
-![Captura de tela 2024-02-04 143143](https://github.com/MarivaldoDev/Reprodutor_musical/assets/126726979/c55e832a-9bef-4ce5-ae00-d4bb85ec7ed9)
+![Captura de tela 2024-02-20 211430](https://github.com/MarivaldoDev/Reprodutor_musical/assets/126726979/576e950d-6cd0-4379-a978-4074d80f8bb6)
