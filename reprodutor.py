@@ -1,7 +1,6 @@
 import pygame
 import os
 import re
-import pysnooper
 from customtkinter import *
 from random import randint
 from tkinter import Menu
@@ -57,7 +56,6 @@ class Spotify():
         pygame.mixer.music.unpause()
 
 
-    # @pysnooper.snoop(r'C:\Users\mariv\OneDrive\Documentos\reprodutor\saida.log') 
     def proxima(self):
         try:
             if self.row == self.n - 1:
