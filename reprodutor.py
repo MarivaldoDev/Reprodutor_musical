@@ -1,11 +1,9 @@
 import pygame
 import os
-import pysnooper
 from customtkinter import *
 from random import randint
 from tkinter import ttk, Menu
 from PIL import Image
-
 
 
 
@@ -50,7 +48,6 @@ class Spotify():
         pygame.mixer.music.unpause()
 
 
-    # @pysnooper.snoop(r'C:\Users\mariv\OneDrive\Documentos\reprodutor\saida.log') 
     def proxima(self):
         try:
             print(f'valor inicial: {self.valores}')
@@ -207,6 +204,7 @@ class Spotify():
     
         pastas.add_command(label="Procurar pasta", command=self.procurar_pasta)
         pastas.add_command(label='Música Aleatória', command=self.aleatoria)
+
 
 
 
