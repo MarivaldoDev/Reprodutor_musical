@@ -19,7 +19,7 @@ Instale as dependências: `pip install -r requirements.txt`
 ## Contato
 
 - Autor: Marivaldo Pedro
-- Email: Pedromarivaldo10@gmail.com
+- Email: marivaldo.pedro.dev@outlook.com
 
 ## Captura de tela
 
